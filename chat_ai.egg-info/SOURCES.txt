@@ -1,0 +1,9 @@
+README.rst
+setup.py
+chat_ai/__init__.py
+chat_ai/main.py
+chat_ai.egg-info/PKG-INFO
+chat_ai.egg-info/SOURCES.txt
+chat_ai.egg-info/dependency_links.txt
+chat_ai.egg-info/requires.txt
+chat_ai.egg-info/top_level.txt
